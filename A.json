@@ -1,0 +1,651 @@
+{
+  "learnmore": [
+    {
+      "id": 1,
+      "title": "How Testicular Cancer Affects One's Ability to Conceive Children",
+      "image": "baby.jpg",
+      "description": "A 2018 research review showed that 6% to 24% of people produce no sperm when they have a testicular cancer diagnosis, and about 50% have lower than usual sperm counts. Beyond these initial challenges to future fertility, cancer treatments may further decrease your ability to conceive a child after testicular cancer."
+    },
+    {
+      "id": 2,
+      "title": "5 Signs You’re Headed Toward Burnout — and How to Stop It",
+      "image": "phone-addiction.jpg",
+      "description": "Burnout is an overly familiar part of our working landscape — something the World Health Organization (WHO)Trusted Source calls an “occupational phenomenon”, and which seems inextricably linked with the psychological burden of modern employment          .As the American Psychological Association (APA) notes, burnout is at an all-time high across numerous professions, spurred on by the COVID-19 pandemic and the potent mix of personal, professional, and health-related stress."
+    }
+  ],
+  "explore": [
+    {
+      "id": 1,
+      "title": "Nutrition",
+      "image": "nurition.jpg",
+      "description": "Nutrition is a critical part of health and development. Better nutrition is related to improved infant, child and maternal health, stronger immune systems, safer pregnancy and childbirth, lower risk of non-communicable diseases (such as diabetes and cardiovascular disease), and longevity."
+    },
+    {
+      "id": 2,
+      "title": "Mental Health",
+      "image": "mental.jpg",
+      "description": "In recent years, there has been increasing acknowledgement of the important role mental health plays in achieving global development goals, as illustrated by the inclusion of mental health in the Sustainable Development Goals. Depression is one of the leading causes of disability. Suicide is the fourth leading cause of death among 15-29-year-olds. People with severe mental health conditions die prematurely – as much as two decades early – due to preventable physical conditions."
+    },
+    {
+      "id": 3,
+      "title": "Fitness",
+      "image": "fitness.jpg",
+      "description": "In recent years, there has been increasing acknowledgement of the important role mental health plays in achieving global development goals, as illustrated by the inclusion of mental health in the Sustainable Development Goals. Depression is one of the leading causes of disability. Suicide is the fourth leading cause of death among 15-29-year-olds. People with severe mental health conditions die prematurely – as much as two decades early – due to preventable physical conditions."
+    },
+    {
+      "id": 4,
+      "title": "Sleep",
+      "image": "sleep.jpg",
+      "description": "Sleep is a state of reduced mental and physical activity, in which consciousness is altered, and sensory activity is inhibited to a certain extent. During sleep, there is a decrease in muscle activity, and interactions with the surrounding environment are significantly reduced. While sleep is different from wakefulness in terms of the ability to react to stimuli, it still involves active brain patterns, making it more reactive than a coma or disorders of consciousness."
+    },
+    {
+      "id": 5,
+      "title": "About",
+      "image": "about.jpg",
+      "description": "A remarkable about page is genuine, approachable, and distinguished. Visitors should get a glimpse into what working with you might be like. You can include personal interests, stories, and photos that convey the unique story of your business. You may also include information about who’s on your team and what their roles are."
+    }
+  ],
+  "enquiries": [
+    {
+      "id": 65682,
+      "fname": "FGHJK",
+      "lname": "FGJH",
+      "email": "aashishbunny1412@gmail.com",
+      "company": "HNJMK",
+      "message": "BHJNKNHJMKNJMKHJNMKDFGHJVFGBHJVGBHNJVBHGJM"
+    },
+    {
+      "id": 18968,
+      "fname": "drygjhi",
+      "lname": "yguijok",
+      "email": "aashishsvn19@saveetha.com",
+      "company": "dtrghjk",
+      "message": "xddfbhgjntytbnjdtrfyuhiffygvbjhoytbnjk"
+    },
+    {
+      "id": 82040,
+      "fname": "fdghj",
+      "lname": "fgjhkjk",
+      "email": "aashishbunny1412@gmail.com",
+      "company": "dfhgj",
+      "message": "swedrfgtyerfgtyhjvtyhjuibhnydcfvgbnhgtyhujvgbhnj"
+    },
+    {
+      "id": 69691,
+      "fname": "jjjjjjjjjjjjj",
+      "lname": "jjjjjjjjjjjjjjj",
+      "email": "aashishbunny1412@gmail.com",
+      "company": "hi bro",
+      "message": "swedrfgthyujderftgyhjuvbghnjmvgbhnjmk"
+    }
+  ],
+  "UserData": [
+    {
+      "email": "aashishbunny1234@gmail.com",
+      "username": "ashish1",
+      "password": "654321",
+      "type": "user",
+      "id": 1
+    },
+    {
+      "email": "aashishbunny1412@gmail.com",
+      "username": "aashish2",
+      "password": "654321",
+      "type": "admin",
+      "id": 2
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": 4315,
+      "name": "Mr.A",
+      "email": "aashishbunny1234@gmail.com",
+      "type": "*****",
+      "message": "hi this is a very good website "
+    },
+    {
+      "id": 3837,
+      "name": "hemanth",
+      "email": "aashishsvn19@saveetha.com",
+      "type": "*****",
+      "message": "the talk to doctor is very good"
+    },
+    {
+      "id": 8836,
+      "name": "fghj",
+      "email": "aashishbunny1412@gmail.com",
+      "type": "*****",
+      "message": "hjkljhklhjkljkljk"
+    }
+  ],
+  "chat": [
+    {
+      "message": "hiiii",
+      "timestamp": "2023-05-04T10:45:49.330Z",
+      "id": 1
+    },
+    {
+      "message": "hoy hoy",
+      "timestamp": "2023-05-04T10:46:01.757Z",
+      "id": 2
+    },
+    {
+      "message": "fgjh",
+      "timestamp": "2023-05-04T10:52:53.340Z",
+      "id": 3
+    },
+    {
+      "message": "hjk",
+      "timestamp": "2023-05-04T10:53:02.749Z",
+      "id": 4
+    },
+    {
+      "message": "sdfghjk",
+      "timestamp": "2023-05-04T13:25:57.823Z",
+      "id": 5
+    },
+    {
+      "message": "hi patient",
+      "timestamp": "2023-05-04T13:26:36.459Z",
+      "id": 6
+    },
+    {
+      "message": "hi doctor",
+      "timestamp": "2023-05-04T13:26:49.195Z",
+      "id": 7
+    },
+    {
+      "message": "hiuy",
+      "timestamp": "2023-05-04T18:29:52.297Z",
+      "id": 8
+    },
+    {
+      "message": "hii patient",
+      "timestamp": "2023-05-05T05:05:28.591Z",
+      "id": 9
+    },
+    {
+      "message": "hhhhh",
+      "timestamp": "2023-05-05T05:54:00.528Z",
+      "id": 10
+    }
+  ],
+  "diseases": [
+    {
+      "id": "D001",
+      "title": "AIDS",
+      "description": "AIDS (acquired immunodeficiency syndrome) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV).",
+      "medicine": "Antiretroviral therapy (ART)"
+    },
+    {
+      "id": "D002",
+      "title": "Alzheimer's disease",
+      "description": "Alzheimer's disease is a progressive brain disorder that affects memory, thinking, and behavior.",
+      "medicine": "Cholinesterase inhibitors, Memantine"
+    },
+    {
+      "id": "D003",
+      "title": "Asthma",
+      "description": "Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways, causing difficulty breathing.",
+      "medicine": "Bronchodilators, Corticosteroids"
+    },
+    {
+      "id": "D004",
+      "title": "Anemia",
+      "description": "Anemia is a condition in which the body does not have enough red blood cells to carry oxygen to the tissues.",
+      "medicine": "Iron supplements, Vitamin B12 supplements"
+    },
+    {
+      "id": "D005",
+      "title": "Acne",
+      "description": "Acne is a common skin condition that occurs when hair follicles become clogged with oil and dead skin cells, resulting in pimples, blackheads, and whiteheads.",
+      "medicine": "Topical retinoids, Antibiotics"
+    },
+    {
+      "id": "D006",
+      "title": "Bronchitis",
+      "description": "Bronchitis is an inflammation of the lining of the bronchial tubes, which carry air to and from the lungs.",
+      "medicine": "Bronchodilators, Corticosteroids"
+    },
+    {
+      "id": "D007",
+      "title": "Breast cancer",
+      "description": "Breast cancer is a type of cancer that begins in the cells of the breast.",
+      "medicine": "Chemotherapy, Radiation therapy, Hormone therapy"
+    },
+    {
+      "id": "D008",
+      "title": "Bipolar disorder",
+      "description": "Bipolar disorder, also known as manic-depressive illness, is a mental health condition characterized by periods of extreme mood swings.",
+      "medicine": "Mood stabilizers, Antipsychotics"
+    },
+    {
+      "id": "D009",
+      "title": "Bursitis",
+      "description": "Bursitis is an inflammation of the bursae, small fluid-filled sacs that cushion the bones, tendons, and muscles near joints.",
+      "medicine": "NSAIDs, Corticosteroid injections"
+    },
+    {
+      "id": "D010",
+      "title": "Bell's palsy",
+      "description": "Bell's palsy is a temporary paralysis or weakness of the muscles on one side of the face, caused by damage or inflammation of the facial nerve.",
+      "medicine": "Corticosteroids"
+    },
+    {
+      "id": "D011",
+      "title": "Cancer",
+      "description": "Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells in the body.",
+      "medicine": "Chemotherapy, Radiation therapy, Surgery"
+    },
+    {
+      "id": "D012",
+      "title": "Celiac disease",
+      "description": "Celiac disease is an autoimmune disorder that affects the small intestine, causing difficulty in digesting food.",
+      "medicine": "Gluten-free diet, Vitamin and mineral supplements"
+    },
+    {
+      "id": "D013",
+      "title": "Chronic obstructive pulmonary disease (COPD)",
+      "description": "COPD is a chronic lung disease that makes it difficult to breathe due to narrowing of the airways and damage to the lungs.",
+      "medicine": "Bronchodilators, Corticosteroids"
+    },
+    {
+      "id": "D014",
+      "title": "Chlamydia",
+      "description": "Chlamydia is a sexually transmitted infection caused by the bacterium Chlamydia trachomatis.",
+      "medicine": "Antibiotics"
+    },
+    {
+      "id": "D015",
+      "title": "Crohn's disease",
+      "description": "Crohn's disease is an inflammatory bowel disease that causes inflammation of the digestive tract.",
+      "medicine": "Immunosuppressants, Biologic therapies"
+    },
+    {
+      "id": "D016",
+      "title": "Dementia",
+      "description": "Dementia is a decline in cognitive function due to damage or disease in the brain.",
+      "medicine": "Cholinesterase inhibitors, Memantine"
+    },
+    {
+      "id": "D017",
+      "title": "Depression",
+      "description": "Depression is a mental health disorder characterized by persistent feelings of sadness and loss of interest in activities.",
+      "medicine": "Antidepressants, Psychotherapy"
+    },
+    {
+      "id": "D018",
+      "title": "Diabetes",
+      "description": "Diabetes is a metabolic disorder that causes high blood sugar levels due to the body's inability to produce or use insulin effectively.",
+      "medicine": "Insulin, Oral hypoglycemic agents"
+    },
+    {
+      "id": "D019",
+      "title": "Dengue fever",
+      "description": "Dengue fever is a mosquito-borne viral disease that causes flu-like symptoms and can lead to severe complications.",
+      "medicine": "Supportive care"
+    },
+    {
+      "id": "D020",
+      "title": "Dermatitis",
+      "description": "Dermatitis is a skin condition characterized by inflammation, redness, and itching.",
+      "medicine": "Topical corticosteroids, Antihistamines"
+    },
+    {
+      "id": "D021",
+      "title": "Eczema",
+      "description": "Eczema is a skin condition that causes redness, itching, and dryness of the skin.",
+      "medicine": "Topical corticosteroids, Emollients"
+    },
+    {
+      "id": "D022",
+      "title": "Endometriosis",
+      "description": "Endometriosis is a disorder in which tissue that normally lines the inside of the uterus grows outside of it, causing pain and other symptoms.",
+      "medicine": "Pain relievers, Hormone therapy"
+    },
+    {
+      "id": "D023",
+      "title": "Epilepsy",
+      "description": "Epilepsy is a neurological disorder characterized by recurrent seizures.",
+      "medicine": "Anticonvulsants"
+    },
+    {
+      "id": "D024",
+      "title": "Fibromyalgia",
+      "description": "Fibromyalgia is a chronic disorder characterized by widespread pain and tenderness in the muscles and joints.",
+      "medicine": "Pain relievers, Antidepressants"
+    },
+    {
+      "id": "D025",
+      "title": "Flu",
+      "description": "The flu is a contagious respiratory illness caused by influenza viruses.",
+      "medicine": "Antiviral drugs, Fever reducers"
+    },
+    {
+      "id": "D026",
+      "title": "Gastroesophageal reflux disease (GERD)",
+      "description": "GERD is a digestive disorder that causes acid reflux and heartburn.",
+      "medicine": "Antacids, Proton pump inhibitors"
+    },
+    {
+      "id": "D027",
+      "title": "Gout",
+      "description": "Gout is a form of arthritis that causes sudden, severe episodes of pain and tenderness in the joints.",
+      "medicine": "Nonsteroidal anti-inflammatory drugs (NSAIDs), Colchicine"
+    },
+    {
+      "id": "D028",
+      "title": "Hepatitis",
+      "description": "Hepatitis is a viral infection that causes inflammation of the liver.",
+      "medicine": "Antiviral drugs, Immunoglobulin"
+    },
+    {
+      "id": "D029",
+      "title": "HIV/AIDS",
+      "description": "HIV/AIDS is a viral infection that attacks the immune system, leading to AIDS, a chronic, life-threatening condition.",
+      "medicine": "Antiretroviral therapy (ART), Pre-exposure prophylaxis (PrEP)"
+    },
+    {
+      "id": "D030",
+      "title": "Influenza",
+      "description": "Influenza, commonly known as the flu, is a contagious respiratory illness caused by influenza viruses.",
+      "medicine": "Antiviral drugs, Fever reducers"
+    },
+    {
+      "id": "D031",
+      "title": "Insomnia",
+      "description": "Insomnia is a sleep disorder characterized by difficulty falling asleep, staying asleep, or both.",
+      "medicine": "Sedatives, Melatonin"
+    },
+    {
+      "id": "D032",
+      "title": "Interstitial cystitis",
+      "description": "Interstitial cystitis is a chronic bladder condition characterized by pelvic pain, urinary urgency, and frequency.",
+      "medicine": "Pain relievers, Bladder instillation"
+    },
+    {
+      "id": "D033",
+      "title": "Jaundice",
+      "description": "Jaundice is a condition in which the skin and whites of the eyes become yellow due to high levels of bilirubin in the blood.",
+      "medicine": "Treatment of underlying cause"
+    },
+    {
+      "id": "D034",
+      "title": "Jet lag",
+      "description": "Jet lag is a temporary sleep disorder that can occur when you travel across multiple time zones.",
+      "medicine": "Melatonin, Sleep aids"
+    },
+    {
+      "id": "D035",
+      "title": "Jock itch",
+      "description": "Jock itch is a fungal infection that affects the skin around the groin area.",
+      "medicine": "Antifungal creams, Powders"
+    },
+    {
+      "id": "D036",
+      "title": "Kidney stones",
+      "description": "Kidney stones are hard deposits of minerals and salts that form in the kidneys and can cause severe pain and other symptoms.",
+      "medicine": "Pain relievers, Alpha blockers"
+    },
+    {
+      "id": "D037",
+      "title": "Klinefelter syndrome",
+      "description": "Klinefelter syndrome is a genetic disorder in which males have an extra X chromosome, which can cause infertility and other health problems.",
+      "medicine": "Testosterone replacement therapy"
+    },
+    {
+      "id": "D038",
+      "title": "Knee osteoarthritis",
+      "description": "Knee osteoarthritis is a degenerative joint disease that causes the breakdown of cartilage in the knee joint.",
+      "medicine": "Pain relievers, Corticosteroid injections"
+    },
+    {
+      "id": "D039",
+      "title": "Laryngitis",
+      "description": "Laryngitis is inflammation of the voice box, which can cause hoarseness, sore throat, and other symptoms.",
+      "medicine": "Resting the voice, Drinking fluids"
+    },
+    {
+      "id": "D040",
+      "title": "Lupus",
+      "description": "Lupus is an autoimmune disease that can affect various parts of the body, causing inflammation and damage.",
+      "medicine": "Nonsteroidal anti-inflammatory drugs (NSAIDs), Immunosuppressive drugs"
+    },
+    {
+      "id": "D041",
+      "title": "Lyme disease",
+      "description": "Lyme disease is a tick-borne illness caused by the bacterium Borrelia burgdorferi and can cause fever, fatigue, and a skin rash.",
+      "medicine": "Antibiotics"
+    },
+    {
+      "id": "D042",
+      "title": "Malaria",
+      "description": "Malaria is a life-threatening disease caused by parasites transmitted to humans through the bites of infected mosquitoes.",
+      "medicine": "Antimalarial drugs"
+    },
+    {
+      "id": "D043",
+      "title": "Measles",
+      "description": "Measles is a highly contagious viral infection that can cause fever, cough, runny nose, and a characteristic rash.",
+      "medicine": "Supportive care, Vitamin A"
+    },
+    {
+      "id": "D044",
+      "title": "Migraine",
+      "description": "Migraine is a type of headache characterized by intense pain, sensitivity to light and sound, and other symptoms.",
+      "medicine": "Pain relievers, Triptans"
+    },
+    {
+      "id": "D045",
+      "title": "Narcolepsy",
+      "description": "Narcolepsy is a sleep disorder characterized by excessive daytime sleepiness, cataplexy, and other symptoms.",
+      "medicine": "Stimulants, Antidepressants"
+    },
+    {
+      "id": "D046",
+      "title": "Nephrotic syndrome",
+      "description": "Nephrotic syndrome is a kidney disorder characterized by high levels of protein in the urine, swelling, and other symptoms.",
+      "medicine": "Diuretics, Corticosteroids"
+    },
+    {
+      "id": "D047",
+      "title": "Neurofibromatosis",
+      "description": "Neurofibromatosis is a genetic disorder that causes tumors to form on nerves and can cause other health problems.",
+      "medicine": "Surgery, Radiation therapy"
+    },
+    {
+      "id": "D048",
+      "title": "Obesity",
+      "description": "Obesity is a medical condition characterized by excessive body fat that can increase the risk of other health problems.",
+      "medicine": "Dietary changes, Physical activity, Medications"
+    },
+    {
+      "id": "D049",
+      "title": "Osteoarthritis",
+      "description": "Osteoarthritis is a joint disorder that causes pain and stiffness and can occur in any joint, but most commonly affects the knees, hips, and hands.",
+      "medicine": "Pain relievers, Nonsteroidal anti-inflammatory drugs (NSAIDs), Physical therapy"
+    },
+    {
+      "id": "D050",
+      "title": "Osteoporosis",
+      "description": "Osteoporosis is a bone disease that causes bones to become weak and brittle, increasing the risk of fractures.",
+      "medicine": "Calcium and vitamin D supplements, Medications"
+    },
+    {
+      "id": "D051",
+      "title": "Parkinson's disease",
+      "description": "Parkinson's disease is a progressive disorder of the nervous system that affects movement and can cause tremors, stiffness, and other symptoms.",
+      "medicine": "Levodopa, Dopamine agonists, Deep brain stimulation"
+    },
+    {
+      "id": "D052",
+      "title": "Pneumonia",
+      "description": "Pneumonia is an infection of the lungs that can cause fever, cough, shortness of breath, and other symptoms.",
+      "medicine": "Antibiotics, Oxygen therapy"
+    },
+    {
+      "id": "D053",
+      "title": "Psoriasis",
+      "description": "Psoriasis is a chronic autoimmune condition that causes red, scaly patches on the skin.",
+      "medicine": "Topical treatments, Systemic medications, Phototherapy"
+    },
+    {
+      "id": "D054",
+      "title": "Q fever",
+      "description": "Q fever is a bacterial infection that can cause flu-like symptoms and can lead to serious complications.",
+      "medicine": "Antibiotics"
+    },
+    {
+      "id": "D055",
+      "title": "Rheumatoid arthritis",
+      "description": "Rheumatoid arthritis is an autoimmune disease that causes inflammation of the joints, leading to pain and stiffness.",
+      "medicine": "Nonsteroidal anti-inflammatory drugs (NSAIDs), Disease-modifying antirheumatic drugs (DMARDs), Biologic response modifiers"
+    },
+    {
+      "id": "D056",
+      "title": "Rosacea",
+      "description": "Rosacea is a chronic skin condition that causes redness, bumps, and swelling on the face.",
+      "medicine": "Topical medications, Oral antibiotics"
+    },
+    {
+      "id": "D057",
+      "title": "Schizophrenia",
+      "description": "Schizophrenia is a severe mental disorder that can cause hallucinations, delusions, and other symptoms.",
+      "medicine": "Antipsychotic medications, Psychotherapy"
+    },
+    {
+      "id": "D058",
+      "title": "Sciatica",
+      "description": "Sciatica is a type of pain that affects the lower back and legs, caused by compression or irritation of the sciatic nerve.",
+      "medicine": "Pain relievers, Physical therapy"
+    },
+    {
+      "id": "D059",
+      "title": "Scoliosis",
+      "description": "Scoliosis is a condition in which the spine curves abnormally to one side.",
+      "medicine": "Bracing, Physical therapy, Surgery"
+    },
+    {
+      "id": "D060",
+      "title": "Tetanus",
+      "description": "Tetanus is a serious bacterial infection that can cause muscle stiffness and spasms, and can be fatal if left untreated.",
+      "medicine": "Antibiotics, Tetanus vaccine, Tetanus immune globulin"
+    },
+    {
+      "id": "D061",
+      "title": "Tourette syndrome",
+      "description": "Tourette syndrome is a neurological disorder that causes repetitive, involuntary movements and vocalizations.",
+      "medicine": "Medications, Behavioral therapy"
+    },
+    {
+      "id": "D062",
+      "title": "Tuberculosis",
+      "description": "Tuberculosis is a bacterial infection that primarily affects the lungs, but can also affect other parts of the body.",
+      "medicine": "Antibiotics"
+    },
+    {
+      "id": "D063",
+      "title": "Urinary tract infection (UTI)",
+      "description": "A urinary tract infection (UTI) is an infection of the urinary system, which can cause pain, burning, and other symptoms.",
+      "medicine": "Antibiotics, Pain relievers"
+    },
+    {
+      "id": "D064",
+      "title": "Varicose veins",
+      "description": "Varicose veins are swollen, twisted veins that can cause pain, discomfort, and other symptoms.",
+      "medicine": "Compression stockings, Sclerotherapy, Endovenous ablation"
+    },
+    {
+      "id": "D065",
+      "title": "West Nile virus",
+      "description": "West Nile virus is a viral infection that can cause flu-like symptoms, and in rare cases, can lead to serious neurological illness.",
+      "medicine": "No specific treatment, Symptomatic and supportive care"
+    },
+    {
+      "id": "D066",
+      "title": "Xeroderma pigmentosum",
+      "description": "Xeroderma pigmentosum is a rare genetic disorder that affects the ability of the skin to repair damage caused by ultraviolet (UV) light.",
+      "medicine": "Avoidance of UV exposure, Regular skin cancer screening"
+    },
+    {
+      "id": "D067",
+      "title": "Yellow fever",
+      "description": "Yellow fever is a viral infection that can cause fever, jaundice, and other symptoms. It is transmitted by mosquitoes.",
+      "medicine": "Supportive care, Yellow fever vaccine"
+    },
+    {
+      "id": "D068",
+      "title": "Zika virus",
+      "description": "Zika virus is a viral infection that can cause mild symptoms, but can also cause serious birth defects if contracted during pregnancy.",
+      "medicine": "Symptomatic and supportive care"
+    },
+    {
+      "id": "D069",
+      "title": "Zika virus",
+      "description": "Zika virus is a viral infection that can cause mild symptoms, but can also cause serious birth defects if contracted during pregnancy.",
+      "medicine": "Symptomatic and supportive care"
+    },
+    {
+      "id": "D664",
+      "title": "hella virus",
+      "description": "it is infectual to brain",
+      "medicine": "use anti hella vaccine"
+    },
+    {
+      "id": "D155",
+      "title": "moneky virus",
+      "description": "go",
+      "medicine": "not fouund"
+    },
+    {
+      "id": "D232",
+      "title": "heryper tyrod",
+      "description": "hrmonial imabalance",
+      "medicine": "undi"
+    }
+  ],
+  "messages": [
+    {
+      "message": "hi doc",
+      "sender": "user",
+      "receiver": "admin",
+      "id": 1
+    },
+    {
+      "message": "hi how are you",
+      "sender": "admin",
+      "receiver": "user",
+      "id": 2
+    },
+    {
+      "message": "i am loosing weight",
+      "sender": "user",
+      "receiver": "admin",
+      "id": 3
+    },
+    {
+      "message": "Okay Please take more protein foods and take thyroid test",
+      "sender": "admin",
+      "receiver": "user",
+      "id": 4
+    },
+    {
+      "message": "hi doc",
+      "sender": "user",
+      "receiver": "admin",
+      "id": 5
+    },
+    {
+      "message": "hello good morning",
+      "sender": "admin",
+      "receiver": "user",
+      "id": 6
+    },
+    {
+      "message": "i am getting head ace",
+      "sender": "user",
+      "receiver": "admin",
+      "id": 7
+    }
+  ]
+}

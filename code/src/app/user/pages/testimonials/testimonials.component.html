@@ -1,0 +1,9 @@
+<h2 [style.color]="'darkgray'" [style.padding]="'20px'">Our Customer Feedbacks</h2>
+<div class="outerdiv">
+    <div class="innerdiv">
+        <app-feedback-box *ngFor="let x of feedbacks "[feedback]="x"></app-feedback-box>
+    </div>
+    <div class="innerdiv1">
+        <app-feedback-form></app-feedback-form>
+    </div>
+</div>

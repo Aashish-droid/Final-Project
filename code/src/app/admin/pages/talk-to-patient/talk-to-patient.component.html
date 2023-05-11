@@ -1,0 +1,24 @@
+<!-- admin.component.html -->
+<div class="body">
+  <h2>Admin</h2>
+    <div class="form">
+      
+      <div *ngFor="let message of messages">
+        <div *ngIf="message.sender === 'user'">
+          <div style="text-align: left;" class="admin-message">
+            <div class="message-body">{{message.message}}</div>
+          </div>
+        </div>
+        <div *ngIf="message.sender === 'admin'" >
+          <div style="text-align: right;" class="user-message">
+            <div class="message-body">{{message.message}}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="send">
+    <input type="text" [(ngModel)]="newMessage" (keyup.enter)="sendMessage(newMessage)" placeholder="Type your message...">
+    <button (click)="sendMessage(newMessage)"><mat-icon>send</mat-icon></button>
+    </div>
+  </div>
+  

@@ -1,0 +1,38 @@
+<div class="box">
+   <a routerLink="/learnmore/1">
+      <mat-card class="example-card">
+          <mat-card-content>
+            <div class="text">
+              <h1>How Testicular Cancer Affects One's Ability to Conceive Children</h1>
+              <p>Learn how testicular cancer and its treatment can affect fertility.</p>
+            </div>
+          </mat-card-content>
+      </mat-card>
+    </a>  
+    <a routerLink="/learnmore/2">
+        <mat-card class="example-card1">
+          <img mat-card-image src="http://localhost/phone-addiction.jpg" alt="Photo of a Shiba Inu">
+          <mat-card-content class="text2">
+              <h1>5 Signs You’re Headed Toward Burnout — and How to Stop It</h1>
+              <p>Hear what experts have to say about signs of burnout and how to prevent it.</p>
+          </mat-card-content>
+        </mat-card>
+    </a>
+  </div>
+  
+  <div class="body">
+    <h1 class="i">EXPLORE BY</h1>
+    <mat-divider></mat-divider>
+    <app-explore *ngFor="let x of explorelist" [by]="x"></app-explore>
+  </div>
+  
+  <div class="body">
+    <p class="ii">______________________________________________________________________________________________________________________________________________________________________________</p>
+    <app-enquiry-form></app-enquiry-form>
+  </div>
+  
+    
+  
+  
+  
+  

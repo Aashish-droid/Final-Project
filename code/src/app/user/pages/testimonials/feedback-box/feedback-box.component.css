@@ -1,0 +1,25 @@
+.example-card {
+    width: 400px; /* set the width of the card */
+    background-color: #f5f5f5; /* set the background color of the card */
+    padding: 20px; /* add some padding around the card */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* add a box shadow to the card */
+  }
+  
+  .txt {
+    font-family: Arial, sans-serif; /* set the font family */
+    font-size: 16px; /* set the font size */
+    color: #333; /* set the font color */
+  }
+  
+  .par {
+    margin: 10px 0; /* add some margin to the paragraphs */
+  }
+  
+  .tp {
+    font-weight: bold; /* make the type paragraph bold */
+  }
+  
+  .mat-divider {
+    margin: 10px 0; /* add some margin to the divider */
+  }
+  

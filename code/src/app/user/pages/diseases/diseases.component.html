@@ -1,0 +1,5 @@
+<div class="search"><input type="text" [(ngModel)]="searchTerm" placeholder="Search Diseases"></div>
+<div class="grid">
+    <app-diseases-name *ngFor="let x of diseaseslist | filter:searchTerm " [kk]="x" class="name"></app-diseases-name>
+</div>
+

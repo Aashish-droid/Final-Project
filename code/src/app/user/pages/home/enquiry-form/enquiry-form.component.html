@@ -1,0 +1,58 @@
+<div class="enquiryform">
+<div class="form">
+    <h1>SEND YOUR QUERIES</h1>
+    <div style="overflow: hidden;">
+        <div class="formbox">
+            <h5>First Name:</h5>
+            <input type="text" [(ngModel)]="fname">*
+        </div>
+        <div class="formbox">
+            <h5>Last Name:</h5>
+            <input type="text" [(ngModel)]="lname">*
+        </div>
+        <div class="formbox">
+            <h5>Email:</h5>
+            <input type="email" [(ngModel)]="email">*
+        </div>
+        <div class="formbox">
+            <h5>Company:</h5>
+            <input type="text" [(ngModel)]="company">*
+        </div>
+        <div class="formbox">
+            <h5>Message:</h5>
+            <textarea [(ngModel)]="message"></textarea>*
+        </div>
+    </div>
+    <div class="alert alert-info" *ngIf="errors.length>0">
+        <ul >
+            <li *ngFor="let x of errors">{{x}}</li>
+        </ul>
+    </div>
+    <div ><button class="btn btn-secondary" (click)="submit()">Submit Enquiry</button></div>
+</div>
+<div class="image">
+   
+    <h2>Contact Information</h2>
+
+	<p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+
+	<p>Phone: 123-456-7890</p>
+
+	<p>Address: 123 Main Street, Anytown USA</p>
+
+	<p>Follow us on social media:</p>
+	<ul>
+		<li><a href="https://www.facebook.com/your-business">Facebook</a></li>
+		<li><a href="https://twitter.com/your-business">Twitter</a></li>
+		<li><a href="https://www.instagram.com/your-business">Instagram</a></li>
+	</ul>
+
+	<p>Our customer service hours are Monday-Friday, 9am-5pm EST.</p>
+
+</div>
+</div>
+    
+  
+    
+    
+    

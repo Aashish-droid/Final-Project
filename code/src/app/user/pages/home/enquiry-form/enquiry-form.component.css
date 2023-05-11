@@ -1,0 +1,65 @@
+.enquiryform{
+  display: flex;
+}
+.form{
+    background-color:aliceblue;
+    padding: 30px;
+    margin-top: 20px;
+    width: 550px;
+
+}
+button {
+    padding: 10px;
+    background-color: #4CAF50;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  
+  .alert {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 3px;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .alert-info {
+    background-color: #2196F3;
+  }
+  h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+
+  h5{
+    margin-top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+  input{
+    width: 200px;
+  }
+  textarea{
+    width: 350px;
+    height: 150px;
+    border-radius: 10px;
+  }
+.image{
+    width: 600px;
+    background-color: rgba(0, 0, 0, 0.966);
+    margin-top: 20px;
+    background-image: url("http://localhost/phone-addiction.jpg");
+    opacity: 0.9;
+    padding-left: 50px;
+  }
+.image h2{
+  margin-top: 50px;
+}

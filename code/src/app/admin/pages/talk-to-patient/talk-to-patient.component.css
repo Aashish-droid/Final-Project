@@ -1,0 +1,87 @@
+
+  input[type="text"] {
+    border-radius: 20px;
+    border: 1px solid rgb(53, 53, 53);
+    background-color: rgb(53, 53, 53);
+    color: #fff;
+    margin-bottom: 10px;
+    height: 40px;
+    width: 420px;
+    padding: 5px;
+  }
+  
+  button {
+    padding-top:4px;
+    background-color:rgb(95, 220, 46);
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-left: 10px;
+    height: 45px;
+    width: 45px;
+  }
+    
+  .send{
+      padding-top: 15px;
+      border-radius: 20px;
+      padding-left: 5px;
+      color: #eee;
+  
+  }
+  
+.form{
+      height: 400px; /* set a fixed height for the chat box */
+      overflow-y: scroll;
+      width: 500px;
+      background-color: aliceblue;
+  }
+
+.body{
+    width: 500px;
+    height: 525px;
+    background-color: rgb(53, 53, 53);
+    margin-top: 10px;
+    margin-left: 400px;
+    text-align: center;
+    border-radius: 20px;
+    color: #eee;
+}
+
+
+
+
+
+.admin-message {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 10px;
+  }
+  
+  .admin-message .message-body {
+    background-color: #eee;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 70%;
+    word-wrap: break-word;
+    margin-right: auto;
+  }
+  
+  .user-message {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-bottom: 10px;
+  }
+  
+  .user-message .message-body {
+    background-color: #007bffe8;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 70%;
+    word-wrap: break-word;
+    margin-left: auto;
+  }

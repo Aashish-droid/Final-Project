@@ -1,0 +1,122 @@
+.mainbody{
+    background-color: #666;
+    display: flex;
+    height: auto;
+}
+
+.details{
+    width: 600px;
+    background-color: aliceblue;
+    text-align: left;
+    padding-left: 15px;
+}
+
+.details img{
+    width: 250px;
+    height: 350px;
+}
+
+
+
+.admin-message {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+.admin-message .message-body {
+  background-color: #eee;
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 70%;
+  word-wrap: break-word;
+  margin-right: auto;
+}
+
+.admin-message .timestamp {
+  font-size: 12px;
+  color: #666;
+  margin-top: 5px;
+}
+
+.user-message {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-bottom: 10px;
+}
+
+.user-message .message-body {
+  background-color: #007bffe8;
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 70%;
+  word-wrap: break-word;
+  margin-left: auto;
+}
+
+.user-message .timestamp {
+  font-size: 12px;
+  color: #fff;
+  margin-top: 5px;
+}
+
+input[type="text"] {
+  border-radius: 20px;
+  border: 1px solid rgb(53, 53, 53);
+  background-color: rgb(53, 53, 53);
+  color: #fff;
+  margin-bottom: 10px;
+  height: 40px;
+  width: 420px;
+  padding: 5px;
+}
+
+button {
+  padding-top:5px;
+  background-color:rgb(95, 220, 46);
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  margin-left: 10px;
+  height: 45px;
+  width: 45px;
+}
+.chat {
+    background-color:aliceblue;
+    width:500px;
+    height: 525px;
+    margin-top: 10px;
+    margin-left: 60px;
+    border-radius: 20px;
+    text-align: center;
+}
+  
+.send{
+    padding-top: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    color: #eee;
+
+}
+
+header{
+    background-color:rgb(56, 56, 56);
+    padding: 10px;
+    color: white;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    margin-bottom: 10px;
+}
+
+body{
+    height: 400px; /* set a fixed height for the chat box */
+    overflow-y: scroll;
+}
+.body1{
+  height: 600px; /* set a fixed height for the chat box */
+  overflow-y: scroll;
+}

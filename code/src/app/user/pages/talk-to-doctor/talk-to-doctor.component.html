@@ -1,0 +1,93 @@
+<div class="mainbody">
+  <div class="details">
+    <h2>DOCTOR DETAILS</h2>
+<head>
+	<title>Dr. Jane Smith</title>
+</head>
+<div class="body1">
+	<div>
+		<h1>Dr. E ODELU</h1>
+		<p><strong>Gender:</strong>Male</p>
+		<p><strong>Age:</strong> 22</p>
+		<img src="http://localhost/OD.jpeg" alt="Dr. Jane Smith">
+	</div>
+
+	<div>
+		<h2>Education and Qualifications</h2>
+		<ul>
+			<li>Bachelor of Science in Biology, University of California, Los Angeles</li>
+			<li>Doctor of Medicine, Harvard Medical School</li>
+			<li>Residency in Internal Medicine, Johns Hopkins Hospital</li>
+			<li>Fellowship in Gastroenterology, University of California, San Francisco</li>
+		</ul>
+	</div>
+
+	<div>
+		<h2>Professional Experience</h2>
+		<ul>
+			<li>Gastroenterologist, Private Practice, Los Angeles, CA (current)</li>
+			<li>Assistant Professor of Medicine, University of California, Los Angeles</li>
+			<li>Gastroenterologist, Cedars-Sinai Medical Center, Los Angeles, CA</li>
+		</ul>
+	</div>
+
+	<div>
+		<h2>Awards and Recognition</h2>
+		<ul>
+			<li>Top Doctor in Gastroenterology, Los Angeles Magazine (multiple years)</li>
+			<li>Outstanding Teacher Award, University of California, Los Angeles</li>
+		</ul>
+	</div>
+
+	<div>
+		<h2>Research and Publications</h2>
+		<ul>
+			<li>Co-author of "Risk factors for pancreatic cancer in patients with chronic pancreatitis: a case-control study," Journal of Gastroenterology, 2019</li>
+			<li>Principal Investigator of "A randomized, double-blind, placebo-controlled trial of a novel drug for the treatment of inflammatory bowel disease," currently in progress</li>
+		</ul>
+	</div>
+
+	<div>
+		<h2>Patient Reviews</h2>
+		<ul>
+			<li>"Dr. OD is an amazing doctor who really took the time to listen to my concerns and explain everything to me. I feel so much better after seeing her!"</li>
+			<li>"I was really nervous about my procedure, but Dr. Smith put me at ease and everything went smoothly. I highly recommend her!"</li>
+			<li>"Dr. OD is one of the best doctors I've ever had. She's compassionate, knowledgeable, and really cares about her patients."</li>
+		</ul>
+	</div>
+
+	<div>
+		<h2>Contact Information</h2>
+		<p><strong>Office Address:</strong> 1234 Main Street, Suite 567, Los Angeles, CA 90001</p>
+		<p><strong>Phone:</strong> 555-123-4567</p>
+		<p><strong>Email:</strong> jsmithmd@email.com</p>
+		<p><strong>Website:</strong> <a href="#">www.janesmithmd.com</a></p>
+	</div>
+</div>
+
+  </div>
+
+<div class="chat">
+    <header>
+      DR.E.ODELU MBBS,FRCS,LONDON
+    </header>
+    <body>
+      <div *ngFor="let message of messages">
+        <div *ngIf="message.sender === 'admin'" class="admin-message">
+          <div class="message-body">{{message.message}}</div>
+          
+        </div>
+        <div *ngIf="message.sender === 'user'" class="user-message">
+          <div class="message-body">{{message.message}}</div>
+          
+        </div>
+      </div>
+    </body>
+    <div class="send">
+      <input type="text" [(ngModel)]="newMessage" (keyup.enter)="sendMessage(newMessage)" placeholder="Type your message...">
+      <button (click)="sendMessage(newMessage)"><mat-icon>send</mat-icon></button>
+    </div>
+  </div>
+
+</div>
+  
